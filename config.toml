@@ -1,6 +1,6 @@
 baseurl = "https://bgao-vt.github.io/"
-title = "Academic Theme"
-copyright = "&copy; 2016 Your Name"
+title = "Bo Gao"
+copyright = "&copy; 2016 Bo Gao"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
