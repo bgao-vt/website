@@ -1,6 +1,6 @@
-baseurl = "https://bgao-vt.github.io/"
-title = "Bo Gao's Homepage (ICT-CAS)"
-copyright = "&copy; 2016 Bo Gao"
+baseurl = "https://example.com"
+title = "Academic Theme"
+copyright = "&copy; 2016 Your Name"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
@@ -14,13 +14,13 @@ googleAnalytics = ""
 
 
 [params]
-  name = "Bo Gao"
-  role = "Assistant Professor"
-  organization = "Institute of Computing Technology, Chinese Academy of Sciences"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
   avatar = "portrait.jpg"
-  email = "gaobo@ict.ac.cn"
-  address = "Institute of Computing Technology, Chinese Academy of Sciences, No.6 Kexueyuan South Road, Beijing 100190, China."
-  phone = "+86-10-62600707"
+  email = "test@example.org"
+  address = "Stanford AI Lab, Stanford University, California, 90210, USA."
+  phone = "888 888 88 88"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -82,16 +82,18 @@ googleAnalytics = ""
 
 
 # Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
   name = "Home"
-  url = "#bio"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
