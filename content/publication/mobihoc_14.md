@@ -12,7 +12,7 @@ title = "Supporting Mobile Users in Database-Driven Opportunistic Spectrum Acces
 #url_code = "#"
 #url_dataset = "#"
 url_pdf = "http://www.arias.ece.vt.edu/pdfs/pub_2014_mobihoc_bo.pdf"
-url_project = "project/dsa/"
+url_project = "project/dbss/"
 #url_slides = "#"
 #url_video = "#"
 

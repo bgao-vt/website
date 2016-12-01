@@ -12,7 +12,7 @@ title = "Incentivizing Spectrum Sensing in Database-Driven Dynamic Spectrum Shar
 #url_code = "#"
 #url_dataset = "#"
 url_pdf = "http://www.arias.ece.vt.edu/pdfs/incentivizingSensing_Infocom2016.pdf"
-url_project = "project/dsa/"
+url_project = "project/dbss/"
 #url_slides = "#"
 #url_video = "#"
 
