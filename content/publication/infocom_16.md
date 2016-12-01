@@ -20,6 +20,7 @@ url_project = "project/dsa/"
 #name = "Custom Link"
 #url = "http://www.example.org"
 
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+
 +++
 
-#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

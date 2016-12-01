@@ -20,7 +20,7 @@ count = 5
 
 # Links.
 str_all = "More Posts"
-str_read_more = "CONTINUE READING"
+#str_read_more = "CONTINUE READING"
 
 +++
 

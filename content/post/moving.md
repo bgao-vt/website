@@ -6,4 +6,4 @@ title = "Happy Moving"
 math = false
 +++
 
-My personal website has moved to this page!
+My personal website has moved to this page! Everything is under construction!
