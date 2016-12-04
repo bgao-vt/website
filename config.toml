@@ -61,20 +61,20 @@ googleAnalytics = ""
   #   Full list: https://jpswalsh.github.io/academicons/
 
   
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:gaobo@ict.ac.cn"
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "mailto:gaobo@ict.ac.cn"
 
   #[[params.social]]
   #  icon = "twitter"
   #  icon_pack = "fa"
   #  link = "//twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com.hk/citations?user=6SbXeL4AAAAJ&hl=en"
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = "https://scholar.google.com.hk/citations?user=6SbXeL4AAAAJ&hl=en"
 
   #[[params.social]]
   #  icon = "github"

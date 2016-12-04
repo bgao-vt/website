@@ -16,6 +16,7 @@ weight = 0
     "Wireless Networking",
     "5G Mobile Networks",
     "Dynamic Spectrum Access",
+    "Fog Computing",
     "Mobile Computing"
   ]
 
@@ -42,4 +43,4 @@ weight = 0
 
 # Biography
 
-Dr. Bo Gao is currently an Assistant Professor with the Institute of Computing Technology, Chinese Academy of Sciences.
+I am currently an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences, China. I work closely with my Ph.D. advisors Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang at Virginia Tech, USA. 
