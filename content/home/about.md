@@ -14,9 +14,9 @@ weight = 0
   title = "Interests"
   interests = [
     "Wireless Networking",
-    "5G Mobile Networks",
     "Dynamic Spectrum Access",
-    "Fog Computing",
+    "5G Networking",
+    "Internet of Things",
     "Mobile Computing"
   ]
 
@@ -43,4 +43,6 @@ weight = 0
 
 # Biography
 
-I am currently an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences, China. I work closely with my Ph.D. advisors Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang at Virginia Tech, USA. 
+I am currently an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences, China. I received the Ph.D. degree in computer engineering from Virginia Tech, USA in 2014, under the supervision of Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang. 
+
+ 

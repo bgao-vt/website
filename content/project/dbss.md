@@ -3,7 +3,7 @@
 date = "2016-04-01"
 
 # Project title.
-title = "Database-Driven Spectrum Sharing"
+title = "Database-Driven Dynamic Spectrum Sharing"
 
 # Project summary to display on homepage.
 summary = "To define dynamic, multi-tier incumbent exclusion zones"
