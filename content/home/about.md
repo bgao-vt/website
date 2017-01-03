@@ -15,7 +15,7 @@ weight = 0
   interests = [
     "Wireless Networking",
     "Dynamic Spectrum Access",
-    "5G Networking",
+    "5G Mobile Networks",
     "Internet of Things",
     "Mobile Computing"
   ]
