@@ -6,5 +6,5 @@ title = "Acceptance to IEEE INFOCOM 2016"
 math = false
 +++
 
-Our paper titled "Incentivizing Spectrum Sensing in Database-Driven Dynamic Spectrum Sharing" has been accepted to the IEEE INFOCOM 2016 technical program! IEEE INFOCOM 2016 received 1,644 paper submissions, of which 300 papers were accepted after a thorough review process (acceptance rate of 18.25%).
+Our paper titled "Incentivizing Spectrum Sensing in Database-Driven Dynamic Spectrum Sharing" has been accepted to the IEEE INFOCOM 2016 technical program! IEEE INFOCOM 2016 received 1,644 paper submissions, of which 300 papers were accepted after a thorough review process (acceptance rate: 18.25%).
 
