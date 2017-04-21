@@ -43,6 +43,6 @@ weight = 0
 
 # Biography
 
-I am currently an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences, China. I received the Ph.D. degree in computer engineering from Virginia Tech, USA in 2014, under the supervision of Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang. 
+I am currently an Associate Professor at the School of Computer and Information Technology, Beijing Jiaotong University, China. I was an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences, China from Oct. 2014 to Mar. 2017. I received the Ph.D. degree in computer engineering from Virginia Tech, USA in 2014, under the supervision of Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang. 
 
  
