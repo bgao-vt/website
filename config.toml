@@ -1,6 +1,6 @@
 baseurl = "https://bgao-vt.github.io/"
-title = "Bo Gao's Homepage (ICT-CAS)"
-copyright = "&copy; 2016 Bo Gao"
+title = "Bo Gao's Homepage (BJTU)"
+copyright = "&copy; 2017 Bo Gao"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
@@ -15,11 +15,11 @@ googleAnalytics = ""
 
 [params]
   name = "Bo Gao"
-  role = "Assistant Professor"
-  organization = "Institute of Computing Technology, Chinese Academy of Sciences"
+  role = "Associate Professor"
+  organization = "Beijing Jiaotong University"
   avatar = "portrait.jpg"
   email = "gaobo@ict.ac.cn"
-  address = "Institute of Computing Technology, Chinese Academy of Sciences, No.6 Kexueyuan South Road, Beijing 100190, China."
+  address = "Beijing Jiaotong University, No.3 Shangyuancun, Beijing 100044, China."
   phone = "+86-10-62600707"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
