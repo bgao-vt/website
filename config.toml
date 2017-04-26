@@ -18,9 +18,9 @@ googleAnalytics = ""
   role = "Ph.D., Associate Professor"
   organization = "Beijing Jiaotong University"
   avatar = "portrait.jpg"
-  email = "gaobo@ict.ac.cn"
+  email = "bogao@bjtu.edu.cn"
   address = "School of Computer and Information Technology, Beijing Jiaotong University, No.3 Shangyuancun, Beijing 100044, China."
-  phone = "+86-10-62600707"
+  #phone = "+86-10-62600707"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
