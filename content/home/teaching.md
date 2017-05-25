@@ -13,4 +13,4 @@ weight = 50
 
 +++
 
-I do not teach now.
+I am preparing to teach a graduate-level course "Mobile Computing" in Spring 2018. 
