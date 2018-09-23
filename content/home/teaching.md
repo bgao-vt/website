@@ -13,4 +13,5 @@ weight = 50
 
 +++
 
-I am preparing to teach a graduate-level course "Mobile Computing" in Spring 2018. 
+Undergraduate-level course "Computational Thinking" in Spring 2018 
+Graduate-level course "Mobile Computing" in Spring 2018 
