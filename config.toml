@@ -1,6 +1,6 @@
 baseurl = "https://bgao-vt.github.io/"
 title = "Bo Gao's Homepage (BJTU)"
-copyright = "&copy; 2017 Bo Gao"
+copyright = "&copy; 2018 Bo Gao"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true

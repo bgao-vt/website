@@ -13,5 +13,8 @@ weight = 50
 
 +++
 
-Undergraduate-level course "Computational Thinking" in Spring 2018 
-Graduate-level course "Mobile Computing" in Spring 2018 
+Undergraduate-level: 
+"Training for Computational Thinking" (Spring 2018, in Chinese) 
+"Embedded Systems" (Fall 2019, in English, at Lancaster University College)
+Graduate-level: 
+"Mobile Computing" (Spring 2018, in English) 
