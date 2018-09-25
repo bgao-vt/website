@@ -4,10 +4,9 @@ draft = false
 tags = []
 title = "Visit to Lancaster University"
 image = "lancaster.jpg"
-
 math = false
 +++
 
-I will be visiting Lancaster University, UK for professional training from Oct. 2018 to Jul. 2019. I will teach at the Lancaster University College located in our Weihai campus. 
+I will be visiting Lancaster University, UK for professional training from Oct. 2018 to Jul. 2019. I will teach at the Lancaster University College, a joint institute located in our Weihai campus. 
 
 
