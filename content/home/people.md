@@ -7,7 +7,7 @@ draft = false
 
 title = "People"
 subtitle = ""
-widget = "people"
+widget = "projects"
 
 # Order that this section will appear in.
 weight = 50
