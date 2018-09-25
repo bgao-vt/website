@@ -7,16 +7,24 @@ draft = false
 
 title = "People"
 subtitle = ""
-widget = "projects"
 
 # Order that this section will appear in.
 weight = 50
 
-folder = "people"
-
-# View.
-# Legend: 0 = list, 1 = cards.
-view = 0
-
 +++
+
+Ph.D. students: 
+
+I am expected to recruit Ph.D. students in 2020. 
+
+M.S. students:
+
+HAN, Jiacheng (º«¼Ñ³É)
+LIU, Mengting (ÁõÃÎæÃ)
+
+
+
+
+
+
 
