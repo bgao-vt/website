@@ -12,6 +12,8 @@ widget = "people"
 # Order that this section will appear in.
 weight = 50
 
+folder = "people"
+
 # View.
 # Legend: 0 = list, 1 = cards.
 view = 0
