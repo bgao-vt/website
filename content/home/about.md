@@ -14,10 +14,10 @@ weight = 10
   title = "Interests"
   interests = [
     "Wireless Networking",
-    "Dynamic Spectrum Access",
-    "5G Mobile Networks",
+    "Dynamic Spectrum Sharing",
     "Internet of Things",
-    "Mobile Computing"
+    "Mobile Edge Computing",
+    "Multi-Agent Systems"    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,17 +26,17 @@ weight = 10
 
 [[education.courses]]
   course = "Ph.D. in Computer Engineering"
-  institution = "Virginia Tech, USA"
+  institution = "Virginia Tech, Blacksburg VA, USA"
   year = 2014
 
 [[education.courses]]
   course = "M.S. in Electrical Engineering"
-  institution = "Shanghai Jiaotong University, China"
+  institution = "Shanghai Jiaotong University, Shanghai, China"
   year = 2009
 
 [[education.courses]]
   course = "B.S. in Electrical Engineering"
-  institution = "Beijing Jiaotong University, China"
+  institution = "Beijing Jiaotong University, Beijing, China"
   year = 2006
  
 +++

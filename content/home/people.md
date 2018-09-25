@@ -13,5 +13,6 @@ weight = 50
 
 +++
 
-Undergraduate-level course "Computational Thinking" in Spring 2018 
-Graduate-level course "Mobile Computing" in Spring 2018 
+# View.
+# Legend: 0 = list, 1 = cards.
+view = 0
