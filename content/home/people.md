@@ -19,7 +19,7 @@ I am expected to recruit Ph.D. students in 2020.
 
 M.S. students:
 
-Year 2018: HAN, Jiacheng,  LIU, Mengting,  DING, Yong 
+* Year 2018: Jiacheng HAN,  Mengting LIU,  Yong DING
 
 
 
