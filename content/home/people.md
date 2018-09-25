@@ -7,6 +7,7 @@ draft = false
 
 title = "People"
 subtitle = ""
+widget = "projects"
 
 # Order that this section will appear in.
 weight = 50
@@ -15,4 +16,4 @@ weight = 50
 
 # View.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
