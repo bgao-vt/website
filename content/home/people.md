@@ -12,8 +12,9 @@ widget = "projects"
 # Order that this section will appear in.
 weight = 50
 
-+++
-
 # View.
 # Legend: 0 = list, 1 = cards.
 view = 0
+
++++
+
