@@ -16,7 +16,8 @@ weight = 50
 Undergraduate-level: 
 
 "Training for Computational Thinking" (Spring 2018, in Chinese) 
-"Embedded Systems" (Fall 2019, in English, at Lancaster University College)
+"Embedded Systems" (Fall 2019, in English, at Lancaster Univ. College)
 
 Graduate-level: 
+
 "Mobile Computing" (Spring 2018, in English) 
