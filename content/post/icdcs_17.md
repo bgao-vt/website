@@ -2,7 +2,7 @@
 date = "2017-03-20T11:00:00"
 draft = false
 tags = []
-title = "Acceptance to IEEE ICDCS 2017 (Short Papers)"
+title = "Acceptance to IEEE ICDCS 2017"
 math = false
 +++
 
