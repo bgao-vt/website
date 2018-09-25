@@ -3,7 +3,7 @@ date = "2018-09-30T11:00:00"
 draft = false
 tags = []
 title = "Visit to Lancaster University"
-image_preview = "lancaster.jpg"
+image = "lancaster.jpg"
 
 math = false
 +++
