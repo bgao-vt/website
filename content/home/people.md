@@ -15,7 +15,7 @@ weight = 50
 
 Ph.D. students: 
 
-I am expected to recruit Ph.D. students in 2020. 
+* I am expected to recruit Ph.D. students in 2020. 
 
 M.S. students:
 
