@@ -15,8 +15,8 @@ weight = 50
 
 Undergraduate-level: 
 
-* "Artificial Intelligence" (Spring 2020, in English, at Lancaster Univ. College)
-* "Embedded Systems" (Spring 2020, in English, at Lancaster Univ. College)
+* "Artificial Intelligence" (Spring 2020, in English, at Lancaster University College)
+* "Embedded Systems" (Spring 2020, in English, at Lancaster University College)
 * "Training for Computational Thinking" (Spring 2018, in Chinese) 
 
 Graduate-level: 
