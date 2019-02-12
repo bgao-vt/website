@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2019-02-13T00:00:00"
 draft = false
 
 widget = "about"
@@ -15,9 +15,9 @@ weight = 10
   interests = [
     "Wireless Networking",
     "Dynamic Spectrum Sharing",
-    "Internet of Things",
     "Mobile Edge Computing",
-    "Multi-Agent Systems"    
+    "Multi-Agent Systems",
+    "Machine Learning"    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,7 +26,7 @@ weight = 10
 
 [[education.courses]]
   course = "Ph.D. in Computer Engineering"
-  institution = "Virginia Tech, Blacksburg VA, USA"
+  institution = "Virginia Tech, Blacksburg, VA, USA"
   year = 2014
 
 [[education.courses]]
@@ -43,6 +43,6 @@ weight = 10
 
 # Biography
 
-I am currently an Associate Professor at the School of Computer and Information Technology, Beijing Jiaotong University, China. I was an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences, China from Oct. 2014 to Mar. 2017. I received the Ph.D. degree in computer engineering from Virginia Tech, USA in 2014, under the supervision of Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang. 
+I am currently an Associate Professor in the School of Computer and Information Technology at Beijing Jiaotong University, China. I am a Visiting Researcher in the School of Computing and Communications at Lancaster University, UK from Oct. 2018 to Jul. 2019. I was an Assistant Professor in the Institute of Computing Technology at Chinese Academy of Sciences, China from Oct. 2014 to Mar. 2017. I received the Ph.D. degree in computer engineering from the Bradley Department of Electrical and Computer Engineering at Virginia Tech, USA in 2014, under the supervision of Prof. Jung-Min "Jerry" Park and Prof. Yaling Yang. 
 
  
