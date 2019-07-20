@@ -13,12 +13,12 @@ weight = 50
 
 +++
 
-Undergraduate-level: 
+**Undergraduate-level:** 
 
 * CNSCC.361: Artificial Intelligence (in English, LUC@BJTU): Spring 2020
 * CNSCC.369: Embedded Systems (in English, LUC@BJTU): Spring 2020
 * 80S000Q: Training for Computational Thinking (in Chinese): Spring 2018 
 
-Graduate-level: 
+**Graduate-level:** 
 
 * 22002349: Mobile Computing (in English): Spring 2018, Fall 2019 
