@@ -19,6 +19,7 @@ Ph.D. students:
 
 M.S. students:
 
+* Year 2019: Wei GUAN, Yingyun GUO, Jia SHI, Nan CUI, Zejin NIU
 * Year 2018: Jiacheng HAN,  Mengting LIU,  Yong DING
 
 
