@@ -18,9 +18,8 @@ weight = 50
 * LUC@BJTU in Weihai
   * CNSCC.361: Artificial Intelligence (in English) - Spring 2020
   * CNSCC.369: Embedded Systems (in English) - Spring 2020
-
 * BJTU in Beijing
-  * 80S000Q: Training for Computational Thinking (in Chinese) - Spring 2018 
+  * 80S000Q: Training for Computational Thinking (in Chinese) - Spring/Summer 2018 
 
 ### Graduate-level: 
 
