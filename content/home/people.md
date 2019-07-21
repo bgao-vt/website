@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own home page section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2016-04-20T00:00:00"
+date = "2019-07-20T00:00:00"
 draft = false
 
 title = "People"
@@ -13,14 +13,15 @@ weight = 50
 
 +++
 
-Ph.D. students: 
+### Ph.D. students: 
 
 * I am expected to recruit Ph.D. students in 2020. 
 
-M.S. students:
+### M.S. students:
 
-* Year 2019: Wei GUAN, Yingyun GUO, Jia SHI, Nan CUI, Zejin NIU
-* Year 2018: Jiacheng HAN,  Mengting LIU,  Yong DING
+* **Year 2019:** Wei GUAN, Yingyun GUO, Jia SHI, Nan CUI, Zejin NIU, 
+ Kalimu KARIMUNDA 
+* **Year 2018:** Jiacheng HAN,  Mengting LIU,  Yong DING
 
 
 
