@@ -20,16 +20,16 @@ weight = 50
 ### M.S. students:
 
 * **Year 2019** 
-  - Wei GUAN 
-  - Yingyun GUO 
-  - Jia SHI 
-  - Nan CUI 
-  - Zejin NIU 
-  - Kalimu KARIMUNDA 
+ - Wei GUAN 
+ - Yingyun GUO 
+ - Jia SHI 
+ - Nan CUI 
+ - Zejin NIU 
+ - Kalimu KARIMUNDA 
 * **Year 2018** 
-  - Jiacheng HAN  
-  - Mengting LIU  
-  - Yong DING
+ - Jiacheng HAN  
+ - Mengting LIU  
+ - Yong DING
 
 
 
