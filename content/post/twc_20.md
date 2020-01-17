@@ -6,5 +6,5 @@ title = "Acceptance to IEEE TWC"
 math = false
 +++
 
-Our paper titled "Spectrum Sharing Among Rapidly Deployable Small Cells: A Hybrid Multi-Agent Approach" has been accepted to the IEEE Transactions on Wireless Communications! Please check the section of Publications for details. 
+Our paper titled "Spectrum Sharing Among Rapidly Deployable Small Cells: A Hybrid Multi-Agent Approach" has been accepted to the IEEE Transactions on Wireless Communications! Please check the section of [Publications](https://bgao-vt.github.io/#publications_selected) for details. 
 

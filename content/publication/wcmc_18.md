@@ -12,7 +12,7 @@ title = "Fog Computing-Assisted Energy-Efficient Resource Allocation for High-Mo
 #url_code = "#"
 #url_dataset = "#"
 url_pdf = "http://downloads.hindawi.com/journals/wcmc/2018/5296406.pdf"
-#url_project = "project/dbss/"
+url_project = "project/rdsc/"
 #url_slides = "#"
 #url_video = "#"
 

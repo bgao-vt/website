@@ -6,5 +6,5 @@ title = "Acceptance to IEEE JSAC"
 math = false
 +++
 
-Our paper titled "P2-SAS: Privacy-Preserving Centralized Dynamic Spectrum Access System" has been accepted to the IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Spectrum Sharing and Aggregation for Future Wireless Networks!
+Our paper titled "P2-SAS: Privacy-Preserving Centralized Dynamic Spectrum Access System" has been accepted to the IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Spectrum Sharing and Aggregation for Future Wireless Networks! Please check the section of Publications for details.
 
