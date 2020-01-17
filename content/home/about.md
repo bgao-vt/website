@@ -15,8 +15,8 @@ weight = 10
   interests = [
     "Wireless Networking",
     "Dynamic Spectrum Sharing",
-    "Mobile Edge Computing",
     "Multi-Agent Systems",
+    "Mobile Edge Computing",
     "Machine Learning"    
   ]
 
