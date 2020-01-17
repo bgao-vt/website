@@ -6,5 +6,5 @@ title = "Research Grant from NSFC"
 math = false
 +++
 
-I have recently received a new research grant from the National Natural Science Foundation of China (NSFC)! This project addresses the issues of resource allocation in radio access networks for mass event hotspots. Please check the section of Projects for details.
+I have recently received a new research grant from the National Natural Science Foundation of China (NSFC)! This project addresses the issues of resource allocation in radio access networks for mass event hotspots. Please click [Projects](https://bgao-vt.github.io/#projects) for details.
 
